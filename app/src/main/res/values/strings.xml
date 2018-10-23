@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Giffy</string>
+
+    <string name="admob_app_id"></string>
+    <string name="admob_banner"></string>
+    <string name="admob_banner_test"></string>
+</resources>
